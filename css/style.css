@@ -1,0 +1,10 @@
+.info-background{
+    background-color: #fcecea;
+}
+.btn-buy-now{
+    background-color: #ff5398;
+    color: white;
+    border-radius: 8px;
+    padding: 9px 25px;
+    border: none;
+}
